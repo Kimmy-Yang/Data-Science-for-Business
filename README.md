@@ -1,2 +1,3 @@
-# Hotel-Booking-Prediction
-DS2
+# Data science for Business in 2022
+@ contain group work: cancelation prediction
+# individual work: credict risk
